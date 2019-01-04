@@ -21,7 +21,7 @@
     "bot",
     "chat"
   ],
-  "main": "dist/rechatbot.js",
+  "main": "src/ChatBot.jsx",
   "files": [
     "dist"
   ],
